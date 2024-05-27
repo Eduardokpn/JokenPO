@@ -176,3 +176,4 @@ D:\2DS -EVB\PAM\JokenPO\JokenPO\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\q
 D:\2DS -EVB\PAM\JokenPO\JokenPO\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 D:\2DS -EVB\PAM\JokenPO\JokenPO\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
 D:\2DS -EVB\PAM\JokenPO\JokenPO\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+D:\2DS -EVB\PAM\JokenPO\JokenPO\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\JokenPO.sourcelink.json

@@ -13,7 +13,7 @@ namespace JokenPO.Models
     {
         public Player(string nome, int pontuacao, Escolha escolha)
         {
-            Nome = nome;
+            Nome = nome = string.Empty;
 
             Pontuacao = pontuacao;
 

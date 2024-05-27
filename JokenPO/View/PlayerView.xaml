@@ -27,11 +27,6 @@
             x:Name="Resultado"
             Text="{Binding Valor}" />
 
-        <Label
-            x:Name="Pontuação"
-            Text="{Binding Pontuacao}"
-            />
-
         <Button
             Text="JOGAR"
             Command="{Binding jogarComand}"
